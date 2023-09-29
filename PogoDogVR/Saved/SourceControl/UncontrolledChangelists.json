@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Senior Project/PogoDogVR/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/Senior Project/PogoDogVR/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Senior Project/PogoDogVR/Content/Original_Assests/OldBall/Ball.uasset",
+				"D:/Senior Project/PogoDogVR/Content/Original_Assests/OldBall/blinn2.uasset",
+				"D:/Senior Project/PogoDogVR/Content/Original_Assests/OldBall/blinn4.uasset",
+				"D:/Senior Project/PogoDogVR/Content/Original_Assests/OldBall/blinn5.uasset",
+				"D:/Senior Project/PogoDogVR/Content/Original_Assests/OldBall/blinn6.uasset",
+				"D:/Senior Project/PogoDogVR/Content/Original_Assests/OldBall/blinn7.uasset",
+				"D:/Senior Project/PogoDogVR/Content/Original_Assests/OldBall/blinn8.uasset",
+				"D:/Senior Project/PogoDogVR/Content/Original_Assests/OldBall/blinn9.uasset",
+				"D:/Senior Project/PogoDogVR/Content/Original_Assests/OldBall/blinn11.uasset",
+				"D:/Senior Project/PogoDogVR/Content/Original_Assests/OldBall/blinn12.uasset",
+				"D:/Senior Project/PogoDogVR/Content/Original_Assests/OldBall/blinn13.uasset",
+				"D:/Senior Project/PogoDogVR/Content/Original_Assests/OldBall/blinn14.uasset",
+				"D:/Senior Project/PogoDogVR/Content/Original_Assests/OldBall/blinn15.uasset",
+				"D:/Senior Project/PogoDogVR/Content/Original_Assests/OldBall/blinn16.uasset",
+				"D:/Senior Project/PogoDogVR/Content/Original_Assests/OldBall/blinn17.uasset",
+				"D:/Senior Project/PogoDogVR/Content/Original_Assests/OldBall/blinn18.uasset",
+				"D:/Senior Project/PogoDogVR/Content/Original_Assests/OldBall/blinn19.uasset",
+				"D:/Senior Project/PogoDogVR/Content/Original_Assests/OldBall/blinn20.uasset",
+				"D:/Senior Project/PogoDogVR/Content/Original_Assests/OldBall/blinn21.uasset",
+				"D:/Senior Project/PogoDogVR/Content/Original_Assests/OldBall/blinn23.uasset",
+				"D:/Senior Project/PogoDogVR/Content/Level/Login.umap",
+				"D:/Senior Project/PogoDogVR/Content/Login/Login_Interface.uasset",
+				"D:/Senior Project/PogoDogVR/Content/Login/SpawnLoginUI.uasset",
+				"D:/Senior Project/PogoDogVR/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"D:/Senior Project/PogoDogVR/Content/VRTemplate/Input/Actions/IA_InputAction_Left.uasset",
+				"D:/Senior Project/PogoDogVR/Content/VRTemplate/Input/Actions/IA_InputAction_Right.uasset",
+				"D:/Senior Project/PogoDogVR/Content/VRTemplate/Input/IMC_Default.uasset",
+				"D:/Senior Project/PogoDogVR/Content/Login/InputFieldWiget.uasset"
+			]
+		}
+	]
+}
